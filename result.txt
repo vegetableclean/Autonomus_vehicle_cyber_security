@@ -1,0 +1,4 @@
+
+Malicious--Train:5 Test:2
+Normal--Train:2 Test 1
+Mean Absolute Error on test data: 0.0567
